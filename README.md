@@ -1,6 +1,6 @@
 ## Joseph Brant and the Digital Mutliverse of History
 
-An exploration of digitizing history
+### An exploration of digitizing history
 
 You can use the [editor on GitHub](https://github.com/EmileePetrie/Digitizing-History.md/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
