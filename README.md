@@ -7,6 +7,7 @@ By Emilee Petrie
 *What does it mean to digitize history?*
 
 *Who is Joseph Brant?*
+ ![Image of Reilly Grid](https://github.com/EmileePetrie/Digitizing-History.md/blob/master/portfolio%20picture%20Reilly%20grid.png)
 
 ## Digitizing a Statue of Brant
 
