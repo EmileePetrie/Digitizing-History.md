@@ -18,10 +18,6 @@ Joseph Brant (1742-1807) was a Mohawk warrior and statesman (Sugden 1996). Brant
 
 A more detailed biography of Brant can be found at: https://github.com/EmileePetrie/Notebook/tree/master/Module-1.md/object-biography.md 
 
-![Image of Brant](https://github.com/EmileePetrie/Digitizing-History.md/blob/master/Portfolio%20picture%20Brant.PNG) 
-
-*Figure 1: Drawing of Brant by Emilee Petrie based oon Gilbert Stuart's 1786 portrait of Brant.*
-
 
 ## DIGITIZING A STATUE OF JOSEPH BRANT
 
