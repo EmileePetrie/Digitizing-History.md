@@ -62,6 +62,7 @@ Augmented reality can be used to represent history in ways other than criticizin
 Digitization can allow for a more complex and interactive understanding of history. Digitization can allow us to preserve history and to create new historical narratives and representations. Claudio Fogu and Edward L. Ayers perhaps best describe the relationship between history and digital media when the former writes 
 > As Edward L. Ayers puts it, ‘history may be better suited to digital technology than any other humanistic discipline.’ This is so, in the first place, because ‘the hypertextuality of digital texts allows for a multiplicity of semantic connections among data,’ and hence the opportunity to ‘move toward more complex forms of analysis,’ but also because it offers innovative ways to reconfigure narrative along nonlinear paths 
 > (Fogu, 2009, p.107).
+
 In other words, the digitization of history creates opportunities for history to be explored through nonlinear and non-traditional ways. There are many ways in which digital media can analyze and represent history and there will continue to be more ways as technology evolves and people continue to creatively explore how those technologies can be used.
 
 
